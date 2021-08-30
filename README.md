@@ -10,4 +10,5 @@ IBM Cognos Analytics, IBM Cloud, IBM Watson Studio.
 
 video link:
 
+https://drive.google.com/file/d/1Jg9pOyoiieKMtG3FGXiBtk9fMCzyPkMz/view?usp=drivesdk
 
